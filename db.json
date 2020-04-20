@@ -1,6 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "apps": [
+    { "id": 1, "title": "Mickey Mouse Clock", "author": "Alon" },
+        { "id": 2, "title": "Fish tank", "author": "Bill" }
+    { "id": 3, "title": "Waterfall", "author": "Alon" }
+    { "id": 4, "title": "Sun dial", "author": "Alon" }
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }

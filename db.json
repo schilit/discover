@@ -1,13 +1,22 @@
 {
   "apps": [
-    { "id": 1, "title": "Mickey Mouse Clock", "author": "Alon" },
-    { "id": 2, "title": "Fish tank", "author": "Bill" },
-    { "id": 3, "title": "Waterfall", "author": "Alon" },
-    { "id": 4, "title": "Sun dial", "author": "Alon" }
-
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn/_yE0in8XbtE" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn/_anCzCy0v7L" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn/_6uaJiyhlGr" },
+    { "id": 4, "title": "Moon phases", "thumbnailUrl": "http://shortn/_YEhsD9rz3l" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+ "favorites": [
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn/_6uaJiyhlGr" },
+    { "id": 4, "title": "Moon phases", "thumbnailUrl": "http://shortn/_YEhsD9rz3l" }
   ],
-  "profile": { "name": "typicode" }
+ "recommendations": [
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn/_yE0in8XbtE" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn/_anCzCy0v7L" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn/_6uaJiyhlGr" }
+   ],
+  "trending": [
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn/_yE0in8XbtE" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn/_anCzCy0v7L" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn/_6uaJiyhlGr" }
+   ]
 }

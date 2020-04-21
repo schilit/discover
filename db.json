@@ -1,26 +1,26 @@
 {
   "apps": [
-    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn.corp.google.com/_yE0in8XbtE" },
-    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn.corp.google.com/_UAcoSi0Cyc" },
-    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn.corp.google.com/_6uaJiyhlGr" },
-    { "id": 4, "title": "Moon phases", "thumbnailUrl": "http://shortn.corp.google.com/_YEhsD9rz3l" },
-    { "id": 5, "title": "Earth from Space", "thumbnailUrl": "http://shortn.corp.google.com/_9oR9KbvzlE" },
-    { "id": 6, "title": "Snowflakes", "thumbnailUrl": "http://shortn.corp.google.com/_wJ0xvEbTrU" }
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "https://lh3.googleusercontent.com/S2vcZtlGQOcXwTd-sG1tSnh1X_2FHQrkFT-G-jRW8kHCnwpUxBtvZEIxk0uL20NOGQ=s360-rw" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "https://i.ytimg.com/vi/C4A-t4cYKBc/maxresdefault.jpg" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://lh3.googleusercontent.com/tFLkcJOufva9gFIAGIlro8jIIFBE3xqnpHqQhHCGZQQdlVD4VD509GIPP0X6e7J58fk=s360-rw" },
+    { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://lh3.googleusercontent.com/vyVRJkqdecq0XOtbP3E2q05FhzgEfL7GOdsWsZO22oo89-I2pbgWrlvO_RNGOQXMaNU=s360-rw" },
+    { "id": 5, "title": "Earth from Space", "thumbnailUrl": "https://media.idownloadblog.com/wp-content/uploads/2019/10/Aerial-Space-Screen-Saver-Apple-TV.jpg" },
+    { "id": 6, "title": "Snowflakes", "thumbnailUrl": "https://i.ytimg.com/vi/y6iLONk2u0I/maxresdefault.jpg" }
   ],
  "favorites": [
-    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn.corp.google.com/_6uaJiyhlGr" },
-    { "id": 4, "title": "Moon phases", "thumbnailUrl": "http://shortn.corp.google.com/_YEhsD9rz3l" }
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://lh3.googleusercontent.com/tFLkcJOufva9gFIAGIlro8jIIFBE3xqnpHqQhHCGZQQdlVD4VD509GIPP0X6e7J58fk=s360-rw" },
+    { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://lh3.googleusercontent.com/vyVRJkqdecq0XOtbP3E2q05FhzgEfL7GOdsWsZO22oo89-I2pbgWrlvO_RNGOQXMaNU=s360-rw" }
   ],
  "recommendations": [
-    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn.corp.google.com/_yE0in8XbtE" },
-    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn.corp.google.com/_UAcoSi0Cyc" },
-    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn.corp.google.com/_6uaJiyhlGr" },
-    { "id": 5, "title": "Earth from Space", "thumbnailUrl": "http://shortn.corp.google.com/_9oR9KbvzlE" }
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "https://lh3.googleusercontent.com/S2vcZtlGQOcXwTd-sG1tSnh1X_2FHQrkFT-G-jRW8kHCnwpUxBtvZEIxk0uL20NOGQ=s360-rw" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "https://i.ytimg.com/vi/C4A-t4cYKBc/maxresdefault.jpg" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://lh3.googleusercontent.com/tFLkcJOufva9gFIAGIlro8jIIFBE3xqnpHqQhHCGZQQdlVD4VD509GIPP0X6e7J58fk=s360-rw" },
+    { "id": 5, "title": "Earth from Space", "thumbnailUrl": "https://media.idownloadblog.com/wp-content/uploads/2019/10/Aerial-Space-Screen-Saver-Apple-TV.jpg" }
    ],
   "trending": [
-    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "http://shortn.corp.google.com/_yE0in8XbtE" },
-    { "id": 2, "title": "Fish tank", "thumbnailUrl": "http://shortn.corp.google.com/_UAcoSi0Cyc" },
-    { "id": 3, "title": "Waterfall", "thumbnailUrl": "http://shortn.corp.google.com/_6uaJiyhlGr" },
-    { "id": 6, "title": "Snowflakes", "thumbnailUrl": "http://shortn.corp.google.com/_wJ0xvEbTrU" }
+    { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "https://lh3.googleusercontent.com/S2vcZtlGQOcXwTd-sG1tSnh1X_2FHQrkFT-G-jRW8kHCnwpUxBtvZEIxk0uL20NOGQ=s360-rw" },
+    { "id": 2, "title": "Fish tank", "thumbnailUrl": "https://i.ytimg.com/vi/C4A-t4cYKBc/maxresdefault.jpg" },
+    { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://lh3.googleusercontent.com/tFLkcJOufva9gFIAGIlro8jIIFBE3xqnpHqQhHCGZQQdlVD4VD509GIPP0X6e7J58fk=s360-rw" },
+    { "id": 6, "title": "Snowflakes", "thumbnailUrl": "https://i.ytimg.com/vi/y6iLONk2u0I/maxresdefault.jpg" }
    ]
 }

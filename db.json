@@ -33,6 +33,6 @@
     { "id": 7, "title": "Particle Clock", "thumbnailUrl": "https://flutter.dev/assets/clock/particle-207bbc40657be6f68f312ce7b0c1695a1f874e9975c06709910f69c4185ea36f.gif" },
     { "id": 8, "title": "Stock Wall", "thumbnailUrl": "https://ph-files.imgix.net/05fa8d1b-9bd9-4180-b3b9-f5f7a28eaf11?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" },
     { "id": 9, "title": "Northern lights", "thumbnailUrl": "https://assets.hongkiat.com/uploads/25-really-cool-screensavers-to-download/northern-lights.jpg" },
-    { "id": 11, "title": "Buddha", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
+    { "id": 11, "title": "Buddha", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" }
    ]
 }

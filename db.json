@@ -10,11 +10,9 @@
     { "id": 8, "title": "Stock Wall", "thumbnailUrl": "https://ph-files.imgix.net/05fa8d1b-9bd9-4180-b3b9-f5f7a28eaf11?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" },
     { "id": 9, "title": "Northern lights", "thumbnailUrl": "https://assets.hongkiat.com/uploads/25-really-cool-screensavers-to-download/northern-lights.jpg" },
     { "id": 10, "title": "Hairy Guy", "thumbnailUrl": "https://media.giphy.com/media/3oEhmTEwylgQyqXpW8/giphy.gif" },
-    { "id": 11, "title": "Buddha", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
-    { "id": 12, "title": "tqt", "url": "tqt", "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJFz0FBKtSZULmjXKxEOzr8pYNSIR1q-yTzz4n55cZ0IexZfk-GVeyEICvUTVg90NHptlWaFYq&usqp=CAc" }
+    { "id": 11, "title": "Buddha", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" }
  ],
  "favorites": [
-    { "id": 12, "title": "tqt", "url": "tqt", "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJFz0FBKtSZULmjXKxEOzr8pYNSIR1q-yTzz4n55cZ0IexZfk-GVeyEICvUTVg90NHptlWaFYq&usqp=CAc" },
     { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://wallpapercave.com/wp/hW2UvZp.jpg" },
     { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://drive.google.com/uc?id=12_8YO2EUrCLLVNwrYdBNmyRNNxVtWB9V" }
   ],

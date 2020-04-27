@@ -12,9 +12,11 @@
     { "id": 10, "title": "Hairy Guy", "thumbnailUrl": "https://media.giphy.com/media/3oEhmTEwylgQyqXpW8/giphy.gif" },
     { "id": 11, "title": "Buddha", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
     { "id": 12, "title": "Instacart", "url": "npm_instacart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
-    { "id": 12, "title": "Walmart", "url": "npm_walmart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" }
+    { "id": 13, "title": "Walmart", "url": "npm_walmart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" }
  ],
  "favorites": [
+    { "id": 12, "title": "Instacart", "url": "npm_instacart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
+    { "id": 13, "title": "Walmart", "url": "npm_walmart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
     { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://wallpapercave.com/wp/hW2UvZp.jpg" },
     { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://drive.google.com/uc?id=12_8YO2EUrCLLVNwrYdBNmyRNNxVtWB9V" }
   ],

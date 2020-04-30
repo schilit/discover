@@ -16,7 +16,6 @@
  ],
  "favorites": [
     { "id": 12, "title": "Instacart", "url": "npm_instacart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
-    { "id": 13, "title": "Walmart", "url": "npm_walmart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
     { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://wallpapercave.com/wp/hW2UvZp.jpg" },
     { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://drive.google.com/uc?id=12_8YO2EUrCLLVNwrYdBNmyRNNxVtWB9V" }
   ],
@@ -31,6 +30,7 @@
   "trending": [
     { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "https://lh3.googleusercontent.com/S2vcZtlGQOcXwTd-sG1tSnh1X_2FHQrkFT-G-jRW8kHCnwpUxBtvZEIxk0uL20NOGQ=s360-rw" },
     { "id": 2, "title": "Fish tank", "thumbnailUrl": "https://assets.hongkiat.com/uploads/25-really-cool-screensavers-to-download/living-marine-aquarium.jpg" },
+    { "id": 13, "title": "Walmart", "url": "npm_walmart", "thumbnailUrl": "https://i.giphy.com/media/xvTlWFkGDF0Q/source.gif" },
     { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://wallpapercave.com/wp/hW2UvZp.jpg" },
     { "id": 4, "title": "Moon phases", "thumbnailUrl": "https://drive.google.com/uc?id=12_8YO2EUrCLLVNwrYdBNmyRNNxVtWB9V" },
     { "id": 6, "title": "Snowflakes", "thumbnailUrl": "https://i.ytimg.com/vi/y6iLONk2u0I/maxresdefault.jpg" },

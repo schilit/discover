@@ -1,5 +1,5 @@
 {
-  "apps": [
+  "components": [
     { "id": 1, "title": "Mickey Mouse Clock", "thumbnailUrl": "https://lh3.googleusercontent.com/S2vcZtlGQOcXwTd-sG1tSnh1X_2FHQrkFT-G-jRW8kHCnwpUxBtvZEIxk0uL20NOGQ=s360-rw" },
     { "id": 2, "title": "Fish tank", "thumbnailUrl": "https://assets.hongkiat.com/uploads/25-really-cool-screensavers-to-download/living-marine-aquarium.jpg" },
     { "id": 3, "title": "Waterfall", "thumbnailUrl": "https://wallpapercave.com/wp/hW2UvZp.jpg" },
